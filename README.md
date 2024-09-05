@@ -5,7 +5,11 @@ Analyzed vulnerabilities in Google Cloud Security Command Center, remediated iss
 
 
 Respond and Recover from a Data Breach
+
+
+
 Project Overview
+
 This project is part of the Google Cloud Cybersecurity Professional Certificate and focuses on responding to and recovering from a data breach using Google Cloud tools and best practices. The primary objective was to identify vulnerabilities in a cloud environment, remediate security issues, and implement robust measures to ensure recovery and protection against future incidents.
 
 Key Activities
